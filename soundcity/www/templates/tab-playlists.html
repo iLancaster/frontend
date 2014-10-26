@@ -2,25 +2,23 @@
     <ion-content class="padding">
         <ion-slide-box >
             <ion-slide ng-repeat="x in playlists">
-               
 
                 <div class="card" >
-                
                     <div class="item item-divider">
-                        <h2>{{x.title}}</h2>
+                        <h2>{{x.playlistName}}</h2>
                     </div>
                     
                     <div style="height:300px;!important" class="item item-image">
-                        <img src="img/manchester.png">
+                       <!-- <img src="{{x.image}}">-->
                     </div>
                     
                     <div class="item item-divider">
                         <div class="row">
-                            <div class="col"><i style="font-size:30px;!important"class="iconj ion-music-note"></i>
+                            <div class="col"><i ng-click="toMoreInfo(x)" style="font-size:30px;!important"class="iconj ion-music-note"></i>
                             </div>
                             <div class="col"><i style="font-size:30px;!important" class="iconj ion-person"></i>
                             </div>
-                            <div class="col"><i ng-click="toStats(x);" style="font-size:30px;!important" class="iconj ion-ios7-pie"></i>
+                            <div  class="col"><i ng-click="toStats(x);" style="font-size:30px;!important" class="iconj ion-ios7-pie"></i>
                             </div>
                         </div>
                     </div>

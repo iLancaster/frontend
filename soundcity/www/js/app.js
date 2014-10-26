@@ -5,90 +5,96 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','highcharts-ng'])
+angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', 'highcharts-ng'])
 
-.run(function($ionicPlatform) {
-  $ionicPlatform.ready(function() {
-    // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
-    // for form inputs)
-    if(window.cordova && window.cordova.plugins.Keyboard) {
-      cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
-    }
-    if(window.StatusBar) {
-      // org.apache.cordova.statusbar required
-      StatusBar.styleDefault();
-    }
-  });
-})
-
-.config(function($stateProvider, $urlRouterProvider) {
-
-  // Ionic uses AngularUI Router which uses the concept of states
-  // Learn more here: https://github.com/angular-ui/ui-router
-  // Set up the various states which the app can be in.
-  // Each state's controller can be found in controllers.js
-  $stateProvider
-
-   
-
-    .state('signin', {
-      url: '/sign-in',
-      templateUrl: 'templates/tab-signin.html',
-      controller: 'SignInCtrl'
+    .run(function ($ionicPlatform) {
+        $ionicPlatform.ready(function () {
+            // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
+            // for form inputs)
+            if (window.cordova && window.cordova.plugins.Keyboard) {
+                cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
+            }
+            if (window.StatusBar) {
+                // org.apache.cordova.statusbar required
+                StatusBar.styleDefault();
+            }
+        });
     })
 
-     .state('lastfm', {
-      url: '/lastfm',
-      templateUrl: 'templates/lastfm.html',
-      controller: 'LastFmCtrl'
-     
-    })
+    .config(function ($stateProvider, $urlRouterProvider) {
+
+        // Ionic uses AngularUI Router which uses the concept of states
+        // Learn more here: https://github.com/angular-ui/ui-router
+        // Set up the various states which the app can be in.
+        // Each state's controller can be found in controllers.js
+        $stateProvider
 
 
+            .state('signin', {
+                url: '/sign-in',
+                templateUrl: 'templates/tab-signin.html',
+                controller: 'SignInCtrl'
+            })
 
-   
-    // setup an abstract state for the tabs directive
-    .state('tab', {
-      url: "/tab",
-      abstract: true,
-      templateUrl: "templates/tabs.html"
-    })
+            .state('lastfm', {
+                url: '/lastfm',
+                templateUrl: 'templates/lastfm.html',
+                controller: 'LastFmCtrl'
 
-    // Each tab has its own nav history stack:
-      .state('tab.stats', {
-        url: "/stats:title:song",
-        views:{
-          'tab-stats':{
-            templateUrl: 'templates/stats.html',
-            controller: 'StatsCtrl'
-          }
-        }
-      })
-    
-    .state('tab.playlists', {
-      url: '/playlists',
-      views: {
-        'tab-playlists': {
-          templateUrl: 'templates/tab-playlists.html',
-          controller: 'PlaylistsCtrl'
-        }
-      }
-    })
+            })
 
-    .state('tab.friend-detail', {
-      url: '/friend/:friendId',
-      views: {
-        'tab-friends': {
-          templateUrl: 'templates/friend-detail.html',
-          controller: 'FriendDetailCtrl'
-        }
-      }
-    })
 
-   
+            // setup an abstract state for the tabs directive
+            .state('tab', {
+                url: "/tab",
+                abstract: true,
+                templateUrl: "templates/tabs.html"
+            })
 
-  // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/sign-in');
+            // Each tab has its own nav history stack:
+            .state('tab.stats', {
+                url: "/stats:id",
+                views: {
+                    'tab-stats': {
+                        templateUrl: 'templates/stats.html',
+                        controller: 'StatsCtrl'
+                    }
+                }
+            })
 
-});
+            .state('tab.playlists', {
+                url: '/playlists',
+                views: {
+                    'tab-playlists': {
+                        templateUrl: 'templates/tab-playlists.html',
+                        controller: 'PlaylistsCtrl'
+                    }
+                }
+            })
+
+            .state('tab.playlistinfo', {
+                url: '/playlistinfo:id',
+                views: {
+                    'tab-playlistinfo': {
+                        templateUrl: 'templates/tab-playlistinfo.html',
+                        controller: 'PlaylistInfoCtrl'
+                    }
+                }
+            })
+
+            .state('tab.friend-detail', {
+                url: '/friend/:friendId',
+                views: {
+                    'tab-friends': {
+                        templateUrl: 'templates/friend-detail.html',
+                        controller: 'FriendDetailCtrl'
+                    }
+                }
+            })
+
+
+        // if none of the above states are matched, use this as the fallback
+        $urlRouterProvider.otherwise('/sign-in');
+
+    });
 
