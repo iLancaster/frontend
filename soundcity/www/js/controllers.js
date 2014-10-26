@@ -1,9 +1,11 @@
 angular.module('starter.controllers', [])
 
 
-    .controller('PlaylistsCtrl', function ($scope, $state, playlistService, $http, $ionicSlideBoxDelegate) {
+    .controller('PlaylistsCtrl', function ($scope, $state, playlistService, $http, $ionicSlideBoxDelegate, bluetooth) {
         //alert(window.token)
         $scope.$state = $state;
+
+        bluetooth.startBluetooth();
         /*
          startScanSuccessCallback = function(scanResult){
 
