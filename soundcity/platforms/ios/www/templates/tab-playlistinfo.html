@@ -1,0 +1,10 @@
+<ion-view ng-model="items" title="{{items.title}}'s sound" left-buttons="leftButtons" right-buttons="rightButtons">
+    <ion-content has-header="true">
+        <ion-list>
+
+        <ion-item ng-repeat="item in items.songs">
+         {{item.Song}}  {{item.Artist}}
+        </ion-item>
+            </ion-list>
+        </ion-content>
+</ion-view>

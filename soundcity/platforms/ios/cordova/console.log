@@ -1,0 +1,365 @@
+2014-10-25 20:18:25.378 soundcity[20374:353306] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Data/Application/F3270F54-F9DA-4D01-90B0-50DCF69498AC/Library/Cookies/Cookies.binarycookies
+2014-10-25 20:18:25.507 soundcity[20374:353306] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:18:25.507 soundcity[20374:353306] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:18:25.537 soundcity[20374:353306] Unlimited access to network resources
+2014-10-25 20:18:26.327 soundcity[20374:353306] [CDVTimer][keyboard] 0.136971ms
+2014-10-25 20:18:26.328 soundcity[20374:353306] [CDVTimer][TotalPluginStartup] 0.549972ms
+2014-10-25 20:18:27.432 soundcity[20374:353306] Resetting plugins due to page load.
+2014-10-25 20:18:27.765 soundcity[20374:353306] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/B690FBEE-93B9-4516-8029-ED7918C74626/soundcity.app/www/index.html#/tab/dash
+2014-10-25 20:20:43.777 soundcity[20966:355208] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Data/Application/25697C9B-7974-45D7-9994-F3FA8F1F09DE/Library/Cookies/Cookies.binarycookies
+2014-10-25 20:20:43.892 soundcity[20966:355208] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:20:43.892 soundcity[20966:355208] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:20:43.900 soundcity[20966:355208] Unlimited access to network resources
+2014-10-25 20:20:44.135 soundcity[20966:355208] [CDVTimer][keyboard] 0.060976ms
+2014-10-25 20:20:44.135 soundcity[20966:355208] [CDVTimer][TotalPluginStartup] 0.238001ms
+2014-10-25 20:20:44.200 soundcity[20966:355208] Resetting plugins due to page load.
+2014-10-25 20:20:44.357 soundcity[20966:355208] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/22C017ED-A28B-4B76-8456-7F6258D62FEA/soundcity.app/www/index.html
+2014-10-25 20:25:13.994 soundcity[21961:358633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Data/Application/7EFC94D1-8899-4C0D-9F7E-8434833261F4/Library/Cookies/Cookies.binarycookies
+2014-10-25 20:25:14.094 soundcity[21961:358633] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:25:14.095 soundcity[21961:358633] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:25:14.101 soundcity[21961:358633] Unlimited access to network resources
+2014-10-25 20:25:14.334 soundcity[21961:358633] [CDVTimer][keyboard] 0.064015ms
+2014-10-25 20:25:14.334 soundcity[21961:358633] [CDVTimer][TotalPluginStartup] 0.227988ms
+2014-10-25 20:25:14.425 soundcity[21961:358633] Resetting plugins due to page load.
+2014-10-25 20:25:15.749 soundcity[21961:358633] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/71F8C680-047A-4832-9AA7-BA122AD72CA4/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:25:50.371 soundcity[22232:359347] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:25:50.372 soundcity[22232:359347] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:25:50.378 soundcity[22232:359347] Unlimited access to network resources
+2014-10-25 20:25:50.595 soundcity[22232:359347] [CDVTimer][keyboard] 0.059009ms
+2014-10-25 20:25:50.595 soundcity[22232:359347] [CDVTimer][TotalPluginStartup] 0.230014ms
+2014-10-25 20:25:50.668 soundcity[22232:359347] Resetting plugins due to page load.
+2014-10-25 20:25:50.922 soundcity[22232:359347] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/7B747E41-EF18-4BC4-8CFF-63AC7C929146/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:26:41.512 soundcity[22550:360255] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:26:41.513 soundcity[22550:360255] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:26:41.519 soundcity[22550:360255] Unlimited access to network resources
+2014-10-25 20:26:41.728 soundcity[22550:360255] [CDVTimer][keyboard] 0.056982ms
+2014-10-25 20:26:41.728 soundcity[22550:360255] [CDVTimer][TotalPluginStartup] 0.220001ms
+2014-10-25 20:26:41.788 soundcity[22550:360255] Resetting plugins due to page load.
+2014-10-25 20:26:42.075 soundcity[22550:360255] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/DD55476B-8F2F-4317-91FB-591E6688AED2/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:26:53.912 soundcity[22751:360727] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:26:53.913 soundcity[22751:360727] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:26:53.918 soundcity[22751:360727] Unlimited access to network resources
+2014-10-25 20:26:54.133 soundcity[22751:360727] [CDVTimer][keyboard] 0.065982ms
+2014-10-25 20:26:54.133 soundcity[22751:360727] [CDVTimer][TotalPluginStartup] 0.231981ms
+2014-10-25 20:26:54.191 soundcity[22751:360727] Resetting plugins due to page load.
+2014-10-25 20:26:54.496 soundcity[22751:360727] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/845160E0-2FF3-425C-88AE-9FC684559E03/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:34:24.561 soundcity[24280:365154] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:34:24.562 soundcity[24280:365154] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:34:24.570 soundcity[24280:365154] Unlimited access to network resources
+2014-10-25 20:34:25.056 soundcity[24280:365154] [CDVTimer][keyboard] 0.094950ms
+2014-10-25 20:34:25.057 soundcity[24280:365154] [CDVTimer][TotalPluginStartup] 0.404000ms
+2014-10-25 20:34:25.157 soundcity[24280:365154] Resetting plugins due to page load.
+2014-10-25 20:34:26.216 soundcity[24280:365154] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/4E416F7D-89A7-482A-B2D6-EAC28B94603C/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:34:55.553 soundcity[24521:365820] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:34:55.554 soundcity[24521:365820] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:34:55.562 soundcity[24521:365820] Unlimited access to network resources
+2014-10-25 20:34:55.998 soundcity[24521:365820] [CDVTimer][keyboard] 0.086963ms
+2014-10-25 20:34:55.999 soundcity[24521:365820] [CDVTimer][TotalPluginStartup] 0.378013ms
+2014-10-25 20:34:56.170 soundcity[24521:365820] Resetting plugins due to page load.
+2014-10-25 20:34:57.098 soundcity[24521:365820] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/2E53EA38-F076-4439-A2B2-7D508B241801/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:35:40.825 soundcity[24830:366570] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:35:40.826 soundcity[24830:366570] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:35:40.833 soundcity[24830:366570] Unlimited access to network resources
+2014-10-25 20:35:41.029 soundcity[24830:366570] [CDVTimer][keyboard] 0.091016ms
+2014-10-25 20:35:41.029 soundcity[24830:366570] [CDVTimer][TotalPluginStartup] 0.362992ms
+2014-10-25 20:35:41.093 soundcity[24830:366570] Resetting plugins due to page load.
+2014-10-25 20:35:41.757 soundcity[24830:366570] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/2F20FEAD-2D62-4D55-826E-B55F7646ED2B/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:35:59.872 soundcity[25054:367167] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:35:59.873 soundcity[25054:367167] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:35:59.877 soundcity[25054:367167] Unlimited access to network resources
+2014-10-25 20:36:00.098 soundcity[25054:367167] [CDVTimer][keyboard] 0.054002ms
+2014-10-25 20:36:00.099 soundcity[25054:367167] [CDVTimer][TotalPluginStartup] 0.225008ms
+2014-10-25 20:36:00.169 soundcity[25054:367167] Resetting plugins due to page load.
+2014-10-25 20:36:00.859 soundcity[25054:367167] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/CC7DD3FE-5AEF-4B98-A586-357DA9F53289/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:36:07.309 soundcity[25054:367167] Show
+2014-10-25 20:36:13.522 soundcity[25054:367167] {"__v":0,"username":"jamestest","password":"pass","token":"9605edeb408cdd2c37642ee794de8be357f969e91ad498ef1c00a14297c4e175e4164a52e79586d3b5d14874c67ff45dc59f996b2dec23868c484e0ab03e05ff","_id":"544bfbad6202d70200000001","CreatedAt":"2014-10-25T19:36:13.513Z"}
+2014-10-25 20:36:13.522 soundcity[25054:367167] 9605edeb408cdd2c37642ee794de8be357f969e91ad498ef1c00a14297c4e175e4164a52e79586d3b5d14874c67ff45dc59f996b2dec23868c484e0ab03e05ff
+2014-10-25 20:36:13.629 soundcity[25054:367167] here https://accounts.spotify.com:443/authorize?client_id=21a623aba4924c7aba89b3408a09a489&response_type=code&redirect_uri=https://ilancaster.herokuapp.com/callback/spotify&scope=user-read-private%20user-read-email&state=jamestest
+2014-10-25 20:36:28.066 soundcity[25054:367167] Show
+2014-10-25 20:36:32.755 soundcity[25054:367167] {"__v":0,"username":"jamestest12","password":"undefined","token":"96193b85d9699e13b324832295112bc68a2a5ad642eb9df04bf2db8d1423994d1fe9230937cc5d3dae3844d3a4fcbc990c35662831bc8555bf83d1121931428d","_id":"544bfbc0b52b3c0200000001","CreatedAt":"2014-10-25T19:36:32.740Z"}
+2014-10-25 20:36:32.755 soundcity[25054:367167] 96193b85d9699e13b324832295112bc68a2a5ad642eb9df04bf2db8d1423994d1fe9230937cc5d3dae3844d3a4fcbc990c35662831bc8555bf83d1121931428d
+2014-10-25 20:36:32.872 soundcity[25054:367167] here https://accounts.spotify.com:443/authorize?client_id=21a623aba4924c7aba89b3408a09a489&response_type=code&redirect_uri=https://ilancaster.herokuapp.com/callback/spotify&scope=user-read-private%20user-read-email&state=jamestest12
+2014-10-25 20:40:40.468 soundcity[26256:370536] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:40:40.469 soundcity[26256:370536] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:40:40.475 soundcity[26256:370536] Unlimited access to network resources
+2014-10-25 20:40:40.692 soundcity[26256:370536] [CDVTimer][keyboard] 0.068009ms
+2014-10-25 20:40:40.692 soundcity[26256:370536] [CDVTimer][TotalPluginStartup] 0.252962ms
+2014-10-25 20:40:40.794 soundcity[26256:370536] Resetting plugins due to page load.
+2014-10-25 20:40:41.551 soundcity[26256:370536] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/D2F64231-321D-4412-BC22-34B99DA3CD25/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:40:42.902 soundcity[26256:370536] Show
+2014-10-25 20:40:51.571 soundcity[26256:370536] {"__v":0,"username":"TestAcc","password":"pass","token":"7b51913a25a2bfefd6b587212282979f627e29dd2d97076fca8b1a3a8eb07109c22fc3e9b72daf64d9a15c5ac1b3b8a9c2f38205dbc2fed552b8bbdbf06a8049","_id":"544bfcc3b52b3c0200000003","CreatedAt":"2014-10-25T19:40:51.590Z"}
+2014-10-25 20:40:51.572 soundcity[26256:370536] 7b51913a25a2bfefd6b587212282979f627e29dd2d97076fca8b1a3a8eb07109c22fc3e9b72daf64d9a15c5ac1b3b8a9c2f38205dbc2fed552b8bbdbf06a8049
+2014-10-25 20:40:51.681 soundcity[26256:370536] here https://accounts.spotify.com:443/authorize?client_id=21a623aba4924c7aba89b3408a09a489&response_type=code&redirect_uri=https://ilancaster.herokuapp.com/callback/spotify&scope=user-read-private%20user-read-email&state=TestAcc
+2014-10-25 20:40:51.906 soundcity[26256:370536] THREAD WARNING: ['InAppBrowser'] took '224.597168' ms. Plugin should use a background thread.
+2014-10-25 20:41:15.902 soundcity[26256:370536] Sign-In androidtest
+2014-10-25 20:41:15.902 soundcity[26256:370536] Sign-In password1234
+2014-10-25 20:41:15.902 soundcity[26256:370536] Sign-In 
+2014-10-25 20:41:17.456 soundcity[26256:370536]  200
+2014-10-25 20:41:19.497 soundcity[26256:370536] Sign-In androidtest
+2014-10-25 20:41:19.497 soundcity[26256:370536] Sign-In password1
+2014-10-25 20:41:19.497 soundcity[26256:370536] Sign-In 
+2014-10-25 20:41:20.899 soundcity[26256:370536]  200
+2014-10-25 20:41:24.396 soundcity[26256:370536] Sign-In androidtest
+2014-10-25 20:41:24.396 soundcity[26256:370536] Sign-In password
+2014-10-25 20:41:24.396 soundcity[26256:370536] Sign-In 
+2014-10-25 20:41:24.511 soundcity[26256:370536] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:42:13.431 soundcity[26703:371660] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:42:13.432 soundcity[26703:371660] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:42:13.438 soundcity[26703:371660] Unlimited access to network resources
+2014-10-25 20:42:13.668 soundcity[26703:371660] [CDVTimer][keyboard] 0.070989ms
+2014-10-25 20:42:13.668 soundcity[26703:371660] [CDVTimer][TotalPluginStartup] 0.286996ms
+2014-10-25 20:42:13.741 soundcity[26703:371660] Resetting plugins due to page load.
+2014-10-25 20:42:14.572 soundcity[26703:371660] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/F9FB12F3-671C-4E8A-ACF2-763DFD39FD57/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:42:22.883 soundcity[26703:371660] Sign-In androidtest
+2014-10-25 20:42:22.883 soundcity[26703:371660] Sign-In password
+2014-10-25 20:42:22.883 soundcity[26703:371660] Sign-In 
+2014-10-25 20:42:23.339 soundcity[26703:371660] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:43:35.576 soundcity[27109:372564] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:43:35.577 soundcity[27109:372564] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:43:35.584 soundcity[27109:372564] Unlimited access to network resources
+2014-10-25 20:43:35.801 soundcity[27109:372564] [CDVTimer][keyboard] 0.057995ms
+2014-10-25 20:43:35.801 soundcity[27109:372564] [CDVTimer][TotalPluginStartup] 0.223994ms
+2014-10-25 20:43:35.871 soundcity[27109:372564] Resetting plugins due to page load.
+2014-10-25 20:43:36.569 soundcity[27109:372564] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/1365BE3E-EEE1-402B-A154-71077B4517FD/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:43:43.866 soundcity[27109:372564] Sign-In androidtest
+2014-10-25 20:43:43.866 soundcity[27109:372564] Sign-In password
+2014-10-25 20:43:43.867 soundcity[27109:372564] Sign-In 
+2014-10-25 20:43:44.285 soundcity[27109:372564] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:44:15.877 soundcity[27396:373242] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:44:15.878 soundcity[27396:373242] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:44:15.883 soundcity[27396:373242] Unlimited access to network resources
+2014-10-25 20:44:16.106 soundcity[27396:373242] [CDVTimer][keyboard] 0.184000ms
+2014-10-25 20:44:16.106 soundcity[27396:373242] [CDVTimer][TotalPluginStartup] 0.503004ms
+2014-10-25 20:44:16.169 soundcity[27396:373242] Resetting plugins due to page load.
+2014-10-25 20:44:16.885 soundcity[27396:373242] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/4E708841-E2C9-402B-99E4-634EF6CF0ACE/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:44:23.083 soundcity[27396:373242] Sign-In androidtest
+2014-10-25 20:44:23.083 soundcity[27396:373242] Sign-In password
+2014-10-25 20:44:23.083 soundcity[27396:373242] Sign-In 
+2014-10-25 20:44:23.949 soundcity[27396:373242] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:44:47.329 soundcity[27652:373916] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:44:47.331 soundcity[27652:373916] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:44:47.339 soundcity[27652:373916] Unlimited access to network resources
+2014-10-25 20:44:47.582 soundcity[27652:373916] [CDVTimer][keyboard] 0.055015ms
+2014-10-25 20:44:47.582 soundcity[27652:373916] [CDVTimer][TotalPluginStartup] 0.217974ms
+2014-10-25 20:44:47.648 soundcity[27652:373916] Resetting plugins due to page load.
+2014-10-25 20:44:48.320 soundcity[27652:373916] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/61EB777A-8D51-4A23-9594-D3B9E5A54A8F/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:44:48.381 soundcity[27652:373916] Show
+2014-10-25 20:44:59.751 soundcity[27652:373916] {"name":"MongoError","err":"E11000 duplicate key error index: app30997327.users.$username_1  dup key: { : \"androidtest\" }","code":11000,"n":0,"connectionId":6668942,"ok":1}
+2014-10-25 20:46:13.276 soundcity[28243:375372] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:46:13.277 soundcity[28243:375372] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:46:13.283 soundcity[28243:375372] Unlimited access to network resources
+2014-10-25 20:46:13.531 soundcity[28243:375372] [CDVTimer][keyboard] 0.081003ms
+2014-10-25 20:46:13.531 soundcity[28243:375372] [CDVTimer][TotalPluginStartup] 0.347018ms
+2014-10-25 20:46:13.608 soundcity[28243:375372] Resetting plugins due to page load.
+2014-10-25 20:46:14.278 soundcity[28243:375372] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/AFBAF06C-0B4C-4BF1-A270-77019908594C/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:46:23.390 soundcity[28243:375372] Sign-In androidtest
+2014-10-25 20:46:23.391 soundcity[28243:375372] Sign-In password
+2014-10-25 20:46:23.391 soundcity[28243:375372] Sign-In 
+2014-10-25 20:46:24.211 soundcity[28243:375372] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:46:54.804 soundcity[28529:376071] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:46:54.806 soundcity[28529:376071] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:46:54.813 soundcity[28529:376071] Unlimited access to network resources
+2014-10-25 20:46:55.029 soundcity[28529:376071] [CDVTimer][keyboard] 0.060976ms
+2014-10-25 20:46:55.029 soundcity[28529:376071] [CDVTimer][TotalPluginStartup] 0.252962ms
+2014-10-25 20:46:55.094 soundcity[28529:376071] Resetting plugins due to page load.
+2014-10-25 20:46:55.776 soundcity[28529:376071] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/FB7D28D9-060C-4A23-B4C9-2F6B91472797/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:47:06.323 soundcity[28731:376551] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:47:06.324 soundcity[28731:376551] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:47:06.330 soundcity[28731:376551] Unlimited access to network resources
+2014-10-25 20:47:06.556 soundcity[28731:376551] [CDVTimer][keyboard] 0.055969ms
+2014-10-25 20:47:06.556 soundcity[28731:376551] [CDVTimer][TotalPluginStartup] 0.219047ms
+2014-10-25 20:47:06.615 soundcity[28731:376551] Resetting plugins due to page load.
+2014-10-25 20:47:07.281 soundcity[28731:376551] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/03DA13BC-D992-4670-B73C-DC97452DAE5E/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:47:17.555 soundcity[28731:376551] Sign-In androidtest
+2014-10-25 20:47:17.556 soundcity[28731:376551] Sign-In password
+2014-10-25 20:47:17.556 soundcity[28731:376551] Sign-In 
+2014-10-25 20:47:19.041 soundcity[28731:376551] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:47:36.973 soundcity[28987:377189] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:47:36.974 soundcity[28987:377189] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:47:36.979 soundcity[28987:377189] Unlimited access to network resources
+2014-10-25 20:47:37.200 soundcity[28987:377189] [CDVTimer][keyboard] 0.093997ms
+2014-10-25 20:47:37.200 soundcity[28987:377189] [CDVTimer][TotalPluginStartup] 0.400007ms
+2014-10-25 20:47:37.265 soundcity[28987:377189] Resetting plugins due to page load.
+2014-10-25 20:47:37.939 soundcity[28987:377189] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/B7AE0E75-EEDB-4EF7-B96B-350F44D8BB8B/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:47:38.078 soundcity[28987:377189] Show
+2014-10-25 20:48:44.626 soundcity[29353:378060] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:48:44.627 soundcity[29353:378060] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:48:44.634 soundcity[29353:378060] Unlimited access to network resources
+2014-10-25 20:48:44.962 soundcity[29353:378060] [CDVTimer][keyboard] 0.099003ms
+2014-10-25 20:48:44.962 soundcity[29353:378060] [CDVTimer][TotalPluginStartup] 0.356972ms
+2014-10-25 20:48:45.052 soundcity[29353:378060] Resetting plugins due to page load.
+2014-10-25 20:48:45.866 soundcity[29353:378060] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/999B41C6-6935-4EA1-BA37-AA5945610DE8/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:51:10.738 soundcity[29962:380007] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:51:10.739 soundcity[29962:380007] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:51:10.745 soundcity[29962:380007] Unlimited access to network resources
+2014-10-25 20:51:10.954 soundcity[29962:380007] [CDVTimer][keyboard] 0.056982ms
+2014-10-25 20:51:10.954 soundcity[29962:380007] [CDVTimer][TotalPluginStartup] 0.216007ms
+2014-10-25 20:51:11.025 soundcity[29962:380007] Resetting plugins due to page load.
+2014-10-25 20:51:11.713 soundcity[29962:380007] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/E2D328EB-27F7-4BAA-8E4E-E7CE34458D0C/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:51:40.066 soundcity[29962:380007] Sign-In androidtest
+2014-10-25 20:51:40.066 soundcity[29962:380007] Sign-In passwor
+2014-10-25 20:51:40.066 soundcity[29962:380007] Sign-In 
+2014-10-25 20:51:43.340 soundcity[29962:380007]  200
+2014-10-25 20:51:47.184 soundcity[29962:380007] Sign-In androidtest
+2014-10-25 20:51:47.185 soundcity[29962:380007] Sign-In password
+2014-10-25 20:51:47.185 soundcity[29962:380007] Sign-In 
+2014-10-25 20:51:47.325 soundcity[29962:380007] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:52:21.593 soundcity[30340:380998] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:52:21.594 soundcity[30340:380998] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:52:21.601 soundcity[30340:380998] Unlimited access to network resources
+2014-10-25 20:52:21.810 soundcity[30340:380998] [CDVTimer][keyboard] 0.151038ms
+2014-10-25 20:52:21.810 soundcity[30340:380998] [CDVTimer][TotalPluginStartup] 0.340998ms
+2014-10-25 20:52:21.868 soundcity[30340:380998] Resetting plugins due to page load.
+2014-10-25 20:52:37.034 soundcity[30548:381525] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:52:37.035 soundcity[30548:381525] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:52:37.041 soundcity[30548:381525] Unlimited access to network resources
+2014-10-25 20:52:37.265 soundcity[30548:381525] [CDVTimer][keyboard] 0.052989ms
+2014-10-25 20:52:37.265 soundcity[30548:381525] [CDVTimer][TotalPluginStartup] 0.234008ms
+2014-10-25 20:52:37.331 soundcity[30548:381525] Resetting plugins due to page load.
+2014-10-25 20:52:53.981 soundcity[30768:382080] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:52:53.982 soundcity[30768:382080] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:52:53.988 soundcity[30768:382080] Unlimited access to network resources
+2014-10-25 20:52:54.204 soundcity[30768:382080] [CDVTimer][keyboard] 0.059962ms
+2014-10-25 20:52:54.204 soundcity[30768:382080] [CDVTimer][TotalPluginStartup] 0.250041ms
+2014-10-25 20:52:54.279 soundcity[30768:382080] Resetting plugins due to page load.
+2014-10-25 20:52:55.631 soundcity[30768:382080] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/57D27AED-FEE6-461B-826E-5E065AD05C7F/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:53:29.261 soundcity[30768:382080] Sign-In androidtest
+2014-10-25 20:53:29.261 soundcity[30768:382080] Sign-In password
+2014-10-25 20:53:29.261 soundcity[30768:382080] Sign-In 
+2014-10-25 20:53:30.343 soundcity[30768:382080] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:53:47.524 soundcity[31091:382940] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:53:47.526 soundcity[31091:382940] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:53:47.530 soundcity[31091:382940] Unlimited access to network resources
+2014-10-25 20:53:47.747 soundcity[31091:382940] [CDVTimer][keyboard] 0.054002ms
+2014-10-25 20:53:47.747 soundcity[31091:382940] [CDVTimer][TotalPluginStartup] 0.235975ms
+2014-10-25 20:53:47.867 soundcity[31091:382940] Resetting plugins due to page load.
+2014-10-25 20:54:01.009 soundcity[31091:382940] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/F5DB2565-11F2-4D6A-AC0D-4E0DDEEE850D/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:54:16.200 soundcity[31091:382940] Sign-In androidtest
+2014-10-25 20:54:16.201 soundcity[31091:382940] Sign-In password
+2014-10-25 20:54:16.201 soundcity[31091:382940] Sign-In 
+2014-10-25 20:54:26.287 soundcity[31091:382940] Sign-In androidtest
+2014-10-25 20:54:26.287 soundcity[31091:382940] Sign-In password
+2014-10-25 20:54:26.287 soundcity[31091:382940] Sign-In 
+2014-10-25 20:54:34.775 soundcity[31091:382940] Sign-In androidtest
+2014-10-25 20:54:34.775 soundcity[31091:382940] Sign-In password
+2014-10-25 20:54:34.775 soundcity[31091:382940] Sign-In 
+2014-10-25 20:54:38.008 soundcity[31091:382940] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:54:39.437 soundcity[31091:382940] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:54:39.659 soundcity[31091:382940] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:55:19.884 soundcity[31533:383987] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:55:19.885 soundcity[31533:383987] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:55:19.892 soundcity[31533:383987] Unlimited access to network resources
+2014-10-25 20:55:20.111 soundcity[31533:383987] [CDVTimer][keyboard] 0.051022ms
+2014-10-25 20:55:20.111 soundcity[31533:383987] [CDVTimer][TotalPluginStartup] 0.209987ms
+2014-10-25 20:55:20.179 soundcity[31533:383987] Resetting plugins due to page load.
+2014-10-25 20:55:37.500 soundcity[31533:383987] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/50267B28-FC5F-457D-ADF6-2F3E1C7D7BF7/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:55:40.129 soundcity[31533:383987] Sign-In androidtest
+2014-10-25 20:55:40.129 soundcity[31533:383987] Sign-In password
+2014-10-25 20:55:40.129 soundcity[31533:383987] Sign-In 
+2014-10-25 20:55:40.562 soundcity[31533:383987] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:56:33.979 soundcity[31915:384913] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:56:33.980 soundcity[31915:384913] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:56:33.985 soundcity[31915:384913] Unlimited access to network resources
+2014-10-25 20:56:34.208 soundcity[31915:384913] [CDVTimer][keyboard] 0.061035ms
+2014-10-25 20:56:34.208 soundcity[31915:384913] [CDVTimer][TotalPluginStartup] 0.222981ms
+2014-10-25 20:56:34.280 soundcity[31915:384913] Resetting plugins due to page load.
+2014-10-25 20:56:44.062 soundcity[31915:384913] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/B02D0098-9252-4546-AB8B-C7B565E8F3CE/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:56:52.667 soundcity[31915:384913] Sign-In androidtest
+2014-10-25 20:56:52.667 soundcity[31915:384913] Sign-In password
+2014-10-25 20:56:52.667 soundcity[31915:384913] Sign-In 
+2014-10-25 20:57:04.155 soundcity[31915:384913] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 20:57:53.801 soundcity[32318:386086] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 20:57:53.803 soundcity[32318:386086] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:57:53.809 soundcity[32318:386086] Unlimited access to network resources
+2014-10-25 20:57:54.039 soundcity[32318:386086] [CDVTimer][keyboard] 0.063002ms
+2014-10-25 20:57:54.039 soundcity[32318:386086] [CDVTimer][TotalPluginStartup] 0.236988ms
+2014-10-25 20:57:54.122 soundcity[32318:386086] Resetting plugins due to page load.
+2014-10-25 20:57:59.701 soundcity[32318:386086] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/E321378D-8C59-4245-821B-B592D2F12EE0/soundcity.app/www/index.html#/sign-in
+2014-10-25 20:58:19.616 soundcity[32318:386086] Sign-In androidtest
+2014-10-25 20:58:19.616 soundcity[32318:386086] Sign-In password11234
+2014-10-25 20:58:19.616 soundcity[32318:386086] Sign-In 
+2014-10-25 20:58:23.548 soundcity[32318:386086]  200
+2014-10-25 20:58:27.449 soundcity[32318:386086] Sign-In androidtest
+2014-10-25 20:58:27.449 soundcity[32318:386086] Sign-In password
+2014-10-25 20:58:27.449 soundcity[32318:386086] Sign-In 
+2014-10-25 20:58:27.575 soundcity[32318:386086] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 21:01:28.475 soundcity[33131:388329] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 21:01:28.476 soundcity[33131:388329] Multi-tasking -> Device: YES, App: YES
+2014-10-25 21:01:28.484 soundcity[33131:388329] Unlimited access to network resources
+2014-10-25 21:01:28.710 soundcity[33131:388329] [CDVTimer][keyboard] 0.057995ms
+2014-10-25 21:01:28.710 soundcity[33131:388329] [CDVTimer][TotalPluginStartup] 0.239015ms
+2014-10-25 21:01:28.775 soundcity[33131:388329] Resetting plugins due to page load.
+2014-10-25 21:01:30.034 soundcity[33131:388329] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/E9C1A56B-FE0A-4F38-930E-38663C86B9B3/soundcity.app/www/index.html#/sign-in
+2014-10-25 21:01:41.484 soundcity[33131:388329] Sign-In androidtest
+2014-10-25 21:01:41.484 soundcity[33131:388329] Sign-In password
+2014-10-25 21:01:41.484 soundcity[33131:388329] Sign-In 
+2014-10-25 21:01:41.956 soundcity[33131:388329] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"hello","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 21:04:34.801 soundcity[33847:390071] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 21:04:34.802 soundcity[33847:390071] Multi-tasking -> Device: YES, App: YES
+2014-10-25 21:04:34.809 soundcity[33847:390071] Unlimited access to network resources
+2014-10-25 21:04:35.035 soundcity[33847:390071] [CDVTimer][keyboard] 0.055015ms
+2014-10-25 21:04:35.035 soundcity[33847:390071] [CDVTimer][TotalPluginStartup] 0.213981ms
+2014-10-25 21:04:35.098 soundcity[33847:390071] Resetting plugins due to page load.
+2014-10-25 21:04:35.826 soundcity[33847:390071] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/C02BB82D-5C2A-4A72-A07A-CBC8616A07EF/soundcity.app/www/index.html#/sign-in
+2014-10-25 21:04:42.947 soundcity[33847:390071] Sign-In androidtest
+2014-10-25 21:04:42.948 soundcity[33847:390071] Sign-In password
+2014-10-25 21:04:42.948 soundcity[33847:390071] Sign-In 
+2014-10-25 21:04:44.529 soundcity[33847:390071] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"me","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 21:05:26.942 soundcity[34169:390844] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 21:05:26.943 soundcity[34169:390844] Multi-tasking -> Device: YES, App: YES
+2014-10-25 21:05:26.949 soundcity[34169:390844] Unlimited access to network resources
+2014-10-25 21:05:27.173 soundcity[34169:390844] [CDVTimer][keyboard] 0.063002ms
+2014-10-25 21:05:27.173 soundcity[34169:390844] [CDVTimer][TotalPluginStartup] 0.393987ms
+2014-10-25 21:05:27.244 soundcity[34169:390844] Resetting plugins due to page load.
+2014-10-25 21:05:27.935 soundcity[34169:390844] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/2084179B-EE07-4BEA-AA5E-2AAD77F99E71/soundcity.app/www/index.html#/sign-in
+2014-10-25 21:05:35.930 soundcity[34169:390844] Sign-In androidtest
+2014-10-25 21:05:35.930 soundcity[34169:390844] Sign-In password
+2014-10-25 21:05:35.930 soundcity[34169:390844] Sign-In 
+2014-10-25 21:05:36.412 soundcity[34169:390844] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"me","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 21:06:20.162 soundcity[34492:391658] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 21:06:20.163 soundcity[34492:391658] Multi-tasking -> Device: YES, App: YES
+2014-10-25 21:06:20.169 soundcity[34492:391658] Unlimited access to network resources
+2014-10-25 21:06:20.411 soundcity[34492:391658] [CDVTimer][keyboard] 0.066042ms
+2014-10-25 21:06:20.411 soundcity[34492:391658] [CDVTimer][TotalPluginStartup] 0.251949ms
+2014-10-25 21:06:20.477 soundcity[34492:391658] Resetting plugins due to page load.
+2014-10-25 21:06:21.187 soundcity[34492:391658] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/0A2A0AE3-C61E-4576-9ECC-9568CCEB733A/soundcity.app/www/index.html#/sign-in
+2014-10-25 21:06:29.131 soundcity[34492:391658] Sign-In androidtest
+2014-10-25 21:06:29.132 soundcity[34492:391658] Sign-In password
+2014-10-25 21:06:29.132 soundcity[34492:391658] Sign-In 
+2014-10-25 21:06:29.563 soundcity[34492:391658] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"me","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 21:08:38.734 soundcity[35069:393159] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 21:08:38.735 soundcity[35069:393159] Multi-tasking -> Device: YES, App: YES
+2014-10-25 21:08:38.741 soundcity[35069:393159] Unlimited access to network resources
+2014-10-25 21:08:38.960 soundcity[35069:393159] [CDVTimer][keyboard] 0.072002ms
+2014-10-25 21:08:38.960 soundcity[35069:393159] [CDVTimer][TotalPluginStartup] 0.264943ms
+2014-10-25 21:08:39.028 soundcity[35069:393159] Resetting plugins due to page load.
+2014-10-25 21:08:39.747 soundcity[35069:393159] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/48C83974-D3B1-4C96-A72C-39956A032313/soundcity.app/www/index.html#/sign-in
+2014-10-25 21:15:51.696 soundcity[35069:393159] Sign-In androidtest
+2014-10-25 21:15:51.696 soundcity[35069:393159] Sign-In password
+2014-10-25 21:15:51.697 soundcity[35069:393159] Sign-In 
+2014-10-25 21:15:52.173 soundcity[35069:393159] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"me","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-25 23:22:03.881 soundcity[58837:447431] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-25 23:22:03.882 soundcity[58837:447431] Multi-tasking -> Device: YES, App: YES
+2014-10-25 23:22:03.888 soundcity[58837:447431] Unlimited access to network resources
+2014-10-25 23:22:04.076 soundcity[58837:447431] [CDVTimer][keyboard] 0.060976ms
+2014-10-25 23:22:04.076 soundcity[58837:447431] [CDVTimer][TotalPluginStartup] 0.238001ms
+2014-10-25 23:22:04.171 soundcity[58837:447431] Resetting plugins due to page load.
+2014-10-25 23:22:04.860 soundcity[58837:447431] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/9C1EFB12-2195-4CE3-9B31-1B4B594DF97E/soundcity.app/www/index.html#/sign-in
+2014-10-25 23:22:23.438 soundcity[58837:447431] Sign-In androidtest
+2014-10-25 23:22:23.438 soundcity[58837:447431] Sign-In password
+2014-10-25 23:22:23.439 soundcity[58837:447431] Sign-In 
+2014-10-25 23:22:23.953 soundcity[58837:447431] {"LastFMID":"JamesRGallagher","LastFMToken":"91987377e5b8aa795c87e272b1543487","SSID":"XT1068","SpotifyToken":"AQA_JYxHorW2t-bLicwQlKhz3Bm7f59n7f3cB_NGliV7KbKOQf8WlVY5pzGDHhH3SoAcGQpWijTj2QFhbvPKrRX_G-YMmoizZSxxDSER8sYb5pSP75sh8Z2s7ijyhOxfrv-2a3jVMCPkQUFf0ZRRuDxKygrWWDtjLEXgoxAhPKy9e1qW4RcIIhRamEQuJnkfEiYmZydDzrQS6E8ns1mVzCEXaIy1zmItpqirxufe10oTl9gqliZnBAcSSO5DSyhAqOYTjmZv2H1mHPo","__v":0,"_id":"544be0347c25770200000004","password":"password","token":"23d6ebf984e14def10998bd5c370a0bab70f4cc21f46fa89da15db61b550f6eba0783331f0e5091292c4f0b73b8df46ec4a3e1a0c5fe4b12c0a036f7ab7ed2ee","username":"androidtest","CreatedAt":"2014-10-25T17:39:00.466Z"} 200
+2014-10-26 01:50:28.576 soundcity[80897:513033] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-26 01:50:28.577 soundcity[80897:513033] Multi-tasking -> Device: YES, App: YES
+2014-10-26 01:50:28.582 soundcity[80897:513033] Unlimited access to network resources
+2014-10-26 01:50:28.778 soundcity[80897:513033] [CDVTimer][keyboard] 0.050962ms
+2014-10-26 01:50:28.778 soundcity[80897:513033] [CDVTimer][TotalPluginStartup] 0.207007ms
+2014-10-26 01:50:28.960 soundcity[80897:513033] Resetting plugins due to page load.
+2014-10-26 01:50:29.243 soundcity[80897:513033] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/3C485E27-7A44-4C58-B1EC-D5CB4F127199/soundcity.app/www/index.html
+2014-10-26 03:49:56.507 soundcity[14218:596422] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-26 03:49:56.508 soundcity[14218:596422] Multi-tasking -> Device: YES, App: YES
+2014-10-26 03:49:56.513 soundcity[14218:596422] Unlimited access to network resources
+2014-10-26 03:49:56.735 soundcity[14218:596422] [CDVTimer][keyboard] 0.051022ms
+2014-10-26 03:49:56.735 soundcity[14218:596422] [CDVTimer][TotalPluginStartup] 0.211000ms
+2014-10-26 03:49:56.919 soundcity[14218:596422] Resetting plugins due to page load.
+2014-10-26 03:49:57.210 soundcity[14218:596422] Finished load of: file:///Users/aetdeveloper/Library/Developer/CoreSimulator/Devices/42FBD955-D4BB-44D0-8580-ED7D7D6B3F79/data/Containers/Bundle/Application/01323861-7506-45AE-8193-CD786EC6F953/soundcity.app/www/index.html
