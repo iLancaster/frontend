@@ -6,7 +6,7 @@ angular.module('starter.controllers', [])
 .controller('PlaylistsCtrl', function($scope,$state) {
     //alert(window.token)
         $scope.$state = $state;
-
+        /*
         startScanSuccessCallback = function(scanResult){
 
                 alert(scanResult.address)
@@ -31,7 +31,7 @@ angular.module('starter.controllers', [])
 
         bluetoothle.initialize(initializeSuccessCallback, initializeErrorCallback, params);
 
-
+    */
 
 
 
