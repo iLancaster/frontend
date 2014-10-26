@@ -5,7 +5,7 @@ angular.module('starter.controllers', [])
         //alert(window.token)
         $scope.$state = $state;
 
-        bluetooth.startBluetooth();
+        //bluetooth.startBluetooth();
         /*
          startScanSuccessCallback = function(scanResult){
 
